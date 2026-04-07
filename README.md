@@ -1,72 +1,90 @@
-<div align="center">
-  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="150" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,255,255,0.5);"/>
-  <h1>Hi 👋, I'm Muhamad Ropik</h1>
-  <h3>Tech Enthusiast | Web Developer | Visual Storyteller</h3>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="120" style="border-radius:50%" />
+</p>
 
-  <p>
-    <a href="https://www.facebook.com/profile.php?id=100040959125354" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
-    <a href="https://instagram.com/ropik.id" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://bit.ly/portfolio-ropik" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  </p>
+<h1 align="center">Hi 👋, I'm Muhamad Ropik</h1>
+<h3 align="center">🎬 Multimedia Enthusiast | 💻 Tech Explorer | 🎨 Creative Editor</h3>
 
-  <img src="https://moe-counter.glitch.me/get/@:0xRopik?theme=rule34" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@:0xRopik?theme=rule34" alt="Profile Views"/>
+</p>
 
-<hr>
+---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
+- 🎥 Video Editor & Multimedia Creator  
+- 💡 Passionate about **content creation, UI/UX, and digital technology**  
+- 🧠 Currently learning: **Multimedia, Programming, and System Design**  
+- 🎯 Goal: Build impactful digital products & creative visuals  
 
-I bridge the gap between code and creative media. Currently studying **Technical Informatics at Pamulang University**, I blend my logical side (backend/frontend web development, automation scripts, and exploring machine learning) with my creative side (filmmaking, photography, and video editing). Whether I'm building an e-commerce platform, writing a short film script, or color-grading footage from my Sony A6000, I'm always creating something new.
+---
 
-- 🎓 **Education:** Technical Informatics at Universitas Pamulang.
-- 💻 **Tech Focus:** Web Development, Machine Learning, Automation Bots.
-- 🎥 **Multimedia:** Filmmaking, Photography, Video Editing (Premiere, After Effects).
-- 🎮 **Off-screen:** You can find me playing Mobile Legends or watching Anime.
-- 📫 **Reach me at:** [droidupdate931@gmail.com](mailto:droidupdate931@gmail.com)
+## 🌐 Portfolio
+- 👨‍💻 Check my work:  
+  👉 https://bit.ly/portfolio-ropik  
 
-<br>
+---
 
-## 🛠️ Languages & Tools
+## 📫 Contact Me
+- 📧 Email: **droidupdate931@gmail.com**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,firebase,androidstudio,linux,git,figma&perline=9" alt="Tech Stack" />
-</div>
+---
 
-<br>
-
-## 🏆 Trophies & Contributions
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=0xRopik&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="0xRopik Trophies" />
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100040959125354">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30"/>
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://user-badge.committers.top/indonesia_public/0xRopik">
-    <img src="https://user-badge.committers.top/indonesia_public/prakasap05.svg" alt="committers.top badge" />
+  <a href="https://instagram.com/ropik.id">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="30"/>
   </a>
-</div>
+</p>
 
-<br>
+---
+
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://sketchware-docs.vercel.app/favicon.ico" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xRopik&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=tokyonight" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRopik&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRopik&layout=compact&theme=tokyonight" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xRopik&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
-</div>
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xRopik&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
 
-<hr>
+---
 
-<div align="center">
-  <p><i>Building logic, capturing moments.</i></p>
-</div>
+## 🔥 Contribution
+<p align="center">
+  <a href="https://user-badge.committers.top/indonesia_public/0xRopik">
+    <img src="https://user-badge.committers.top/indonesia_public/prakasap05.svg"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> "Editing is not just cutting clips, it's telling stories 🎬"
