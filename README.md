@@ -45,6 +45,11 @@
 ## 🎛️ Tools & Tech
 <p align="center">
   <img src="https://skillicons.dev/icons?i=android,html,css,mysql,git,linux,figma,firebase"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
 </p>
 
 ---
