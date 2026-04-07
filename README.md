@@ -67,6 +67,10 @@
   <img src="https://komarev.com/ghpvc/?username=0xRopik&label=Profile%20Views&color=00ffff&style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2Y2Q3Y2FhYjFjZjY2YzQ3Zjg5Njc5ZTFmY2FhYzA5NzRjN2M5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+</p>
+
 ---
 
 ## 🎞️ Final Frame
