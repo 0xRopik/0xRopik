@@ -5,7 +5,7 @@
 
 <!-- PROFILE (BIGGER & PROPORTIONAL) -->
 <p align="center">
-  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="180" />
+  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="350" />
 </p>
 
 <h2 align="center">🎬 Video Editor • Visual Storyteller • Multimedia Creator</h2>
@@ -59,13 +59,10 @@
 
 ## 🎥 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRopik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRopik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
-</p>
 
 ---
 
