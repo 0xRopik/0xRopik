@@ -9,6 +9,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=4000&color=00ffff&center=true&vCenter=true&width=700&lines=Crafting+Emotion+Through+Visuals;Cinematic+Editing+Experience;Turning+Ideas+Into+Stories" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xRopik&label=Profile%20Views&color=00ffff&style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2Y2Q3Y2FhYjFjZjY2YzQ3Zjg5Njc5ZTFmY2FhYzA5NzRjN2M5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+</p>
 ---
 
 ## 🎞️ About Me
@@ -58,17 +65,6 @@
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 👁️ Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xRopik&label=Profile%20Views&color=00ffff&style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2Y2Q3Y2FhYjFjZjY2YzQ3Zjg5Njc5ZTFmY2FhYzA5NzRjN2M5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
 </p>
 
 ---
