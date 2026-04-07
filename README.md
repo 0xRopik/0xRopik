@@ -1,24 +1,17 @@
-<!-- CINEMATIC HEADER -->
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=MUHAMAD%20ROPIK&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- PROFILE (BIGGER & SYMMETRICAL) -->
+<!-- PROFILE (BIGGER & PROPORTIONAL) -->
 <p align="center">
-  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="160" style="border-radius:50%" />
+  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="180" />
 </p>
 
 <h2 align="center">🎬 Video Editor • Visual Storyteller • Multimedia Creator</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=4000&color=ffffff&center=true&vCenter=true&width=700&lines=Crafting+Emotion+Through+Visuals;Cinematic+Editing+Experience;Turning+Ideas+Into+Stories" />
-</p>
-
----
-
-<!-- CLEAN COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xRopik&color=grey&style=flat-square"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=4000&color=00ffff&center=true&vCenter=true&width=700&lines=Crafting+Emotion+Through+Visuals;Cinematic+Editing+Experience;Turning+Ideas+Into+Stories" />
 </p>
 
 ---
@@ -26,7 +19,7 @@
 ## 🎞️ About Me
 > I create not just videos, but **experiences that people can feel.**
 
-- 🎥 Specialized in **Cinematic Video Editing**
+- 🎥 Focus on **Cinematic Video Editing**
 - 🎨 Combining **Creativity + Technology**
 - 🧠 Learning **UI/UX & System Development**
 - 🚀 Building impactful **visual & digital projects**
@@ -66,19 +59,26 @@
 
 ## 🎥 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xRopik&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xRopik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRopik&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRopik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff"/>
 </p>
 
 ---
 
 ## 🧠 Highlight
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xRopik&theme=darkhub&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xRopik&theme=matrix&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 👁️ Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xRopik&label=Profile%20Views&color=00ffff&style=flat-square"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ## 🎞️ Final Frame
 <p align="center">
   <i>
-  "A great video is not seen — it is felt."
+  "A great video is not watched — it is felt."
   <br/>
   — Muhamad Ropik
   </i>
