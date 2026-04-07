@@ -1,11 +1,6 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=MUHAMAD%20ROPIK&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
 <!-- PROFILE (BIGGER & PROPORTIONAL) -->
 <p align="center">
-  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="550" />
+  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="1000" />
 </p>
 
 <h2 align="center">🎬 Video Editor • Visual Storyteller • Multimedia Creator</h2>
