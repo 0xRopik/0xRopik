@@ -19,10 +19,7 @@
 ## 🎞️ About Me
 > I create not just videos, but **experiences that people can feel.**
 
-- 🎥 Focus on **Cinematic Video Editing**
-- 🎨 Combining **Creativity + Technology**
-- 🧠 Learning **UI/UX & System Development**
-- 🚀 Building impactful **visual & digital projects**
+I focus on cinematic video editing, where I blend creativity and technology to craft meaningful visuals, while continuously learning UI/UX and system development to build impactful digital and visual experiences.**
 
 ---
 
@@ -61,14 +58,6 @@
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xRopik&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-## 🧠 Highlight
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xRopik&theme=matrix&no-frame=true&margin-w=15"/>
 </p>
 
 ---
