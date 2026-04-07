@@ -5,7 +5,7 @@
 
 <!-- PROFILE (BIGGER & PROPORTIONAL) -->
 <p align="center">
-  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="350" />
+  <img src="https://github.com/0xRopik/0xRopik/blob/main/0xRopik.jpeg" width="550" />
 </p>
 
 <h2 align="center">🎬 Video Editor • Visual Storyteller • Multimedia Creator</h2>
