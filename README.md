@@ -14,7 +14,7 @@
 ## 🎞️ About Me
 > I create not just videos, but **experiences that people can feel.**
 
-I focus on cinematic video editing, where I blend creativity and technology to craft meaningful visuals, while continuously learning UI/UX and system development to build impactful digital and visual experiences.**
+> I focus on cinematic video editing, where I blend creativity and technology to craft meaningful visuals, while continuously learning UI/UX and system development to build impactful digital and visual experiences.**
 
 ---
 
